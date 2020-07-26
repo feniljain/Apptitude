@@ -4,10 +4,11 @@
 
 ## App Preview
 
-![Screen1](https://github.com/Devil39/Apptitude/blob/master/assets/Screen1.png)
-![Screen2](https://github.com/Devil39/Apptitude/blob/master/assets/Screen2.png)
-![Screen3](https://github.com/Devil39/Apptitude/blob/master/assets/Screen3.png)
-![Screen4](https://github.com/Devil39/Apptitude/blob/master/assets/Screen4.png)
+![Screen1](https://github.com/Devil39/Apptitude/blob/master/assets/Screen1.png)    ![Screen2](https://github.com/Devil39/Apptitude/blob/master/assets/Screen2.png)
+![Screen3](https://github.com/Devil39/Apptitude/blob/master/assets/Screen3.png)    ![Screen4](https://github.com/Devil39/Apptitude/blob/master/assets/Screen4.png)
+
+### NOTE
+Biometric has been bypassed for now, if you want to verify its working, its just shifting Navigtor push into if statement, we had to take this move, because I do not have a mobile to test it upon, but as I have used it before in my internship, I know the code works 100%, as said before, you can defenitely verify it by pushing it in if, also you will get a toast stating the status, hence proving its working.
 
 ### ADHD
 
