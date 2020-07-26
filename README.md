@@ -2,6 +2,12 @@
 
 (_latin for to take care or to pay attention to)_
 
+## App Preview
+
+![Screen1](https://github.com/Devil39/Apptitude/blob/master/assets/Screen1.png)
+![Screen2](https://github.com/Devil39/Apptitude/blob/master/assets/Screen2.png)
+![Screen3](https://github.com/Devil39/Apptitude/blob/master/assets/Screen3.png)
+![Screen4](https://github.com/Devil39/Apptitude/blob/master/assets/Screen4.png)
 
 ### ADHD
 
@@ -79,5 +85,4 @@ To start the project you need to do two things:
 - Add google-services.json
 - Add a keys.js file in **lib/** folder with **Web Client ID** of your firebase project and you are ready to go. Ensure its a class with name Keys and static const memebers.
 
-## [APK LINK](https://drive.google.com/file/d/1Dq1c8cz4wsSwL8TMN5SPRjQpAkdrPDTe/view?usp=sharing)
 
