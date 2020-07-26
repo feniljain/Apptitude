@@ -1,28 +1,9 @@
-# cura
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # **Cura**
 
 (_latin for to take care or to pay attention to)_
 
 
-
-ADHD
-
+### ADHD
 
 
 Cura is a task curating and tracking platform to help children suffering from ADHD, Attention deficit hyperactivity disorder. ADHD mainly affects children severely below the age of 12. ADHD shows its signs in children in ages as young as three years old. ADHD is often accompanied with or potentially leads to autism or dementia in children as well.
@@ -36,17 +17,13 @@ Cura is a task curating and tracking platform to help children suffering from AD
 Most children as they grow up loose most symptoms except maybe their lack of focus or poor decision making for which various task management apps now exist.
 
 
-
-Value Proposition
-
+### Value Proposition
 
 
 Cura is a platform to help tackle all 4 broad symptoms and collect progress reports to help better improve their treatment. The app is targeted towards parents having children in the age group of 6-8. Cura stands unique as most of the present apps focus on engagement of kids through their platform. Whereas Cura is an that not only integrates learning through engagement but also helps children improve in their daily activities and increase their productivity.
 
 
-
-Features
-
+### Features
 
 
 - Daily task generator: A daily task generator generates a maximum of 5 tasks a day ranging from simple reminders like eating fruits, watching certain movies to giving challenges. The tasks are curated keeping in mind patterns and behavior seen in children suffering from ADHD.
@@ -65,8 +42,7 @@ Features
 
 
 
-Challenges faced:
-
+### Challenges faced:
 
 
 - Researching od ADHD and curating tasks
@@ -75,18 +51,33 @@ Challenges faced:
 
 
 
-Accomplishments:
-
+### Accomplishments:
 
 
 - Integration of Biometric authorization to help reflect patient doctor privacy
 
 - Integration of Firbase ML toolkit- Labelling of images
 
-- Using Rx library-
+- Using Rx library- Rx is great at handling streaming data, here in our project we have leveraged it with the help of behaviour subject utiliy provided by Rx library.
+
+- APIs used: http://glyffix.com/api/Image?word={word}, https://www.wordsapi.com/, https://random-word-api.herokuapp.com/home 
 
 
+### Steps to Run the app:
+#### Getting Started
 
-Steps to Run the app:
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+To start the project you need to do two things:
+- Add google-services.json
+- Add a keys.js file in **lib/** folder with **Web Client ID** of your firebase project and you are ready to go. Ensure its a class with name Keys and static const memebers.
+
+## [APK LINK](https://drive.google.com/file/d/1Dq1c8cz4wsSwL8TMN5SPRjQpAkdrPDTe/view?usp=sharing)
 
